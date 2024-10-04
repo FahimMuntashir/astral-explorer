@@ -1,0 +1,69 @@
+#information {
+  padding: 80px 20px;
+  background-color: #f0f0f0;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+#information h2 {
+  font-size: 38px;
+  margin-bottom: 25px;
+  color: #111;
+  font-weight: 400;
+}
+
+#information p {
+  font-size: 16px;
+  line-height: 1.8;
+  max-width: 750px;
+  margin: 0 auto 40px auto;
+  color: #555;
+}
+
+#information .info-content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+#information .info-box {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 350px;
+  width: 100%;
+  text-align: left;
+  transition: all 0.3s ease;
+}
+
+#information .info-box:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+#information .info-box h3 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #007bff;
+}
+
+#information .info-box p {
+  font-size: 15px;
+  color: #666;
+  line-height: 1.7;
+}
+
+#information .info-box a {
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 14px;
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+#information .info-box a:hover {
+  color: #0056b3;
+}
