@@ -1,65 +1,66 @@
 #information {
-  padding: 70px 20px;
-  background-color: #f8f8f8;
+  padding: 60px 20px;
+  background-color: #ffffff;
   text-align: center;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Arial', sans-serif;
   color: #333;
 }
 
 #information h2 {
-  font-size: 36px;
+  font-size: 34px;
   margin-bottom: 20px;
-  color: #111;
-  font-weight: 400;
+  color: #222;
+  font-weight: 500;
 }
 
 #information p {
-  font-size: 16px;
-  line-height: 1.7;
-  max-width: 750px;
+  font-size: 17px;
+  line-height: 1.6;
+  max-width: 700px;
   margin: 0 auto 40px auto;
-  color: #555;
+  color: #444;
 }
 
 #information .info-content {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 30px;
 }
 
 #information .info-box {
-  background-color: white;
-  padding: 25px;
-  border-radius: 8px;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   width: 100%;
-  max-width: 320px;
-  transition: transform 0.3s ease;
+  max-width: 340px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
 
 #information .info-box:hover {
-  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  transform: translateY(-3px);
 }
 
 #information .info-box h3 {
-  font-size: 22px;
-  margin-bottom: 12px;
+  font-size: 20px;
+  margin-bottom: 15px;
   color: #007bff;
 }
 
 #information .info-box p {
-  font-size: 15px;
+  font-size: 14px;
   color: #666;
-  line-height: 1.6;
+  line-height: 1.5;
 }
 
 #information .info-box a {
+  display: inline-block;
+  margin-top: 12px;
   font-size: 14px;
   color: #007bff;
   text-decoration: none;
-  margin-top: 10px;
-  display: inline-block;
   transition: color 0.3s ease;
 }
 
