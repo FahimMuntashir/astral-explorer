@@ -4,10 +4,10 @@
 ### We created Astral Explorer, an interactive web application for students to explore the universe. Its goal is to inspire young minds by providing a dynamic, immersive learning experience. The platform allows users to select an exoplanet and view the night sky, seeing how constellations would appear from that location. Through interactive tools, users can even create custom constellations. By making astronomy engaging and accessible, Astral Explorer fosters a deep interest in space science and exploration, which could lead to innovative ideas and future discoveries in this field.
 
 ## LINK TO FINAL PROJECT:
-[Insert link here]
+<a>https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/exo-alchemist/ </a> 
 
 ## LINK TO PROJECT DEMO:
-[Insert demo link here]
+https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/exo-alchemist/
 
 ## DETAILED PROJECT DESCRIPTION
 NASA tasked us with creating a unique educational tool for students to visualize the universe from various perspectives. With Astral Explorer, users can select an exoplanet and view an interactive 3D star chart. The tool offers the ability to visualize constellations from this new viewpoint and even create custom constellations. This engaging method makes it easier for students to grasp complex astronomical concepts while sparking their curiosity about the stars and planetary systems beyond our own. Our hope is that this tool will make space exploration more relatable and exciting for a younger audience, ultimately contributing to their understanding and passion for astronomy.
@@ -29,8 +29,8 @@ Database: MySQL
 Tools: GitHub (Code Management), Trello (Team Management), NASA’s Open Data Portal
 
 ## PROJECT LINKS
-Project GitHub: [Insert link here]
-3D Model: [Insert link here]
+Project GitHub: https://github.com/FahimMuntashir/astral-explorer/
+
 
 ## REFERENCES
 
